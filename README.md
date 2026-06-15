@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Manufacturing Inventory Tracker
 
 A small full-stack web application for tracking materials used in bottle production.
@@ -89,3 +90,7 @@ The app keeps responsibilities simple:
 - Express exposes REST API routes.
 - PostgreSQL stores materials and transaction history.
 - Stock transactions are handled in a database transaction so quantity updates and transaction records stay consistent.
+=======
+# Manufacturing-inventory-tracker
+A web application for tracking manufacturing inventory, stock levels, transactions, and low-stock alerts using React, Node.js, and PostgreSQL.
+>>>>>>> ff2093911e3e8cabc9e4e35481d3419fd10fe189
